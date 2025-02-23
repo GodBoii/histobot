@@ -4,8 +4,8 @@ import pandas as pd
 from dhanhq import dhanhq
 
 # Add your client_id and access_token here
-client_id = "1102524211"
-access_token = "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpc3MiOiJkaGFuIiwicGFydG5lcklkIjoiIiwiZXhwIjoxNzEzMjgwNDY4LCJ0b2tlbkNvbnN1bWVyVHlwZSI6IlNFTEYiLCJ3ZWJob29rVXJsIjoiIiwiZGhhbkNsaWVudElkIjoiMTEwMjUyNDIxMSJ9.f4C2-8wW75PmsTvNTSaT-iLunecopFg83n9gcTJQe1uTEbTHkck9tTPD3bjglfmqNPTF8Csoy1-QRot3dgWifA"
+client_id = "f u"
+access_token = "f u"
 dhan = dhanhq(client_id, access_token)
 
 def is_market_open():
